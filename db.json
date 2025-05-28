@@ -1,6 +1,10 @@
 {
   "books": [
     {
+      "title": "War and Peace",
+      "id": 1
+    },
+    {
       "title": "The Great Gatsby",
       "id": 2
     }
